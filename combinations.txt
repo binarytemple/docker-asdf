@@ -1,0 +1,2 @@
+erlang_version,elixir_version 
+21.0-rc2,1.6.5 
